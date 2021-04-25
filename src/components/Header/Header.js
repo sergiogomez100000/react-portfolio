@@ -5,21 +5,21 @@ function Header() {
   const location = useLocation();
 
   return (
-    <div className="px-4 my-5 text-center" style={{background: "#659DBD"}}>
+    <div class="card text-center"style={{background: "#659DBD"}}>
       <h1 className="display-5 fw-bold">Sergio Gomez's Portfolio</h1>
-      <ul className="nav nav-pills nav-fill">
-        <li className="nav-item">
-          <Link to="/" style={{color: "black"}}className={location.pathname === "/" ? "nav-item active" : "nav-item"}>About</Link>
-        </li>
-        <li className="nav-item">
-          <Link
-            to="projects" style={{color:"black"}}className={location.pathname === "/projects" ? "nav-item active" : "nav-item"}>Projects</Link>
-        </li> 
-        <li className= "nav-item">
-          <Link
-            to="contact" style={{color:"black"}}className={location.pathname === "/contact" ? "nav-item active" : "nav-item"}>Contact</Link>
-        </li>
-      </ul>
+      <div class="card-header">
+        <ul class="nav nav-tabs card-header-tabs nav-fill">
+          <li class="nav-item">
+          <Link to="/" style={{color: "black"}}className={location.pathname === "/" ? "nav-link active" : "nav-link"}>About</Link>
+          </li>
+          <li class="nav-item">
+            <Link to="projects" style={{color:"black"}}className={location.pathname === "/projects" ? "nav-link active" : "nav-link"}>Projects</Link>
+          </li>
+          <li class="nav-item">
+          <Link to="contact" style={{color:"black"}}className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>Contact</Link>
+          </li>
+        </ul>
+      </div>
     </div>
   );
 }
