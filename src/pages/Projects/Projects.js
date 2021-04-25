@@ -1,10 +1,9 @@
 import React from 'react';
+import Project from '../../components/ProjectInfo/Project';
 
 function Projects() {
     return (
-        <div>
-            Projects
-        </div>
+      <Project />
     )
 }
 export default Projects;

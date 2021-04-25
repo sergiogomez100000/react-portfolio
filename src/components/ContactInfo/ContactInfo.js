@@ -3,7 +3,7 @@ import React from "react";
 function ContactInfo() {
   return (
     <div>
-      <h1>Contact Information</h1>
+      <h1 className="container">Contact Information</h1>
       <div className="card-body">
         <h5 className="card-title">Email</h5>
         <p className="card-text">sergiogomez100000@gmail.com</p>
