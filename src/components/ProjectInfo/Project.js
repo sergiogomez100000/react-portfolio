@@ -3,7 +3,7 @@ import React from "react";
 function Project() {
   return (
     <div className="card" style={{ width: "20rem" }}>
-      <img className="card-img-top" src="..." alt="Card image cap" />
+      <img className="card-img-top" src="..." alt="Project" />
       <div className="card-body">
         <h5 className="card-title">Project Name</h5>
         <p className="card-text">
@@ -12,7 +12,6 @@ function Project() {
       </div>
       <ul className="list-group list-group-flush">
         <li className="list-group-item">Technologies Used</li>
-        <li className="list-group-item">Tech</li>
         <li className="list-group-item">Tech</li>
       </ul>
       <div className="card-body">
