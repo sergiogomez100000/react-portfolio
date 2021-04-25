@@ -1,8 +1,8 @@
-
-
+import React from "react";
+import ContactInfo from "../../components/ContactInfo/ContactInfo"
 function Contact(){
     return(
-        <h2>This is the Contact</h2>
+        <ContactInfo />
     )
 }
 
