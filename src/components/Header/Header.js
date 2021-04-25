@@ -1,30 +1,27 @@
-import React from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import React from "react";
+import { Link, useLocation } from "react-router-dom";
 
 function Header() {
-    const location = useLocation();
+  const location = useLocation();
 
-    return (
-    //     <div className="nav">
-    //         <ul className="navbar-nav">
-    //             <li>
-    //                 <Link to="/">About</Link>
-    //             </li>
-    //             <li>
-    //                 <Link to="projects" className={location.pathname === "/" ? "navitem active" : "navitem"}>Projects</Link>
-    //             </li>
-    //         </ul>
-    //     </div>
-
-    <div class="px-4 py-5 my-5 text-center">
-  <h1 class="display-5 fw-bold">Sergio Gomez's Portfolio</h1>
-  <div class="col-lg-6 mx-auto">
-    <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
-    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+  return (
+    <div className="px-4 my-5 text-center" style={{background: "#659DBD"}}>
+      <h1 className="display-5 fw-bold">Sergio Gomez's Portfolio</h1>
+      <ul className="nav nav-pills nav-fill">
+        <li className="nav-item">
+          <Link to="/"className={location.pathname === "/" ? "nav-item active" : "nav-item"}>About</Link>
+        </li>
+        <li className="nav-item">
+          <Link
+            to="projects"className={location.pathname === "/projects" ? "nav-item active" : "nav-item"}>Projects</Link>
+        </li>
+        <li className= "nav-item">
+          <Link
+            to="contact"className={location.pathname === "/contact" ? "nav-item active" : "nav-item"}>Contact</Link>
+        </li>
+      </ul>
     </div>
-  </div>
-</div>
-   ) 
+  );
 }
 
 export default Header;

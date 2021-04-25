@@ -3,7 +3,8 @@ import React from 'react';
 function Projects() {
     return (
         <div>
-            <ProjectInfo />
+            Projects
         </div>
     )
 }
+export default Projects;
