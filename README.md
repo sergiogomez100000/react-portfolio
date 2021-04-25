@@ -1,11 +1,11 @@
-# react-portfolio
+# Sergio's React Portfolio
 
 ## Description
  Hello and welcome to my Portfolio! Check out a little about me, my recent projects and my contact info!
 
 ## Table of Contents
 * [Installation](#Installation)
-*[Technologies](#Technologies)
+* [Technologies](#Technologies)
 * [Usage](#Usage)
 * [Screenshots](#Screenshots)
 * [Links](#Links)
