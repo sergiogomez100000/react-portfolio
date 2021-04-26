@@ -1,40 +1,40 @@
 [ {
-   "image":"",
+   "image":"src/images/Food-Ties.png",
     "name":"Food Ties",
     "description":"A fun personality quiz that uses food choices to determine your personality!",
     "technology":"mySQL, Node.js, Express.js, Sequelize, Bcrypt, MVC, Handlebars",
     "github":"https://github.com/sergiogomez100000/Food-Ties",
     "deploy":"https://food-tiesgroup.herokuapp.com/login"
 },
-{"image":"",
+{"image":"src/images/Employee-Directory.png",
     "name":"Employee Directory",
     "description":"A directory for managers to find info on their employees by searching for their name",
     "technology":"mySQL, Node.js, Express.js, Sequelize, Bcrypt, MVC, Handlebars",
     "github":"https://github.com/sergiogomez100000/employee-directory",
     "deploy":"https://employee-directorysg.netlify.app/"
 },{
-    "image":"",
+    "image":"src/images/Budget-Tracker.png",
      "name":"Int Budget Tracker",
      "description":"An International Budget Tracker that can be used anywhere regardless of server connection!",
      "technology":"Mongo DB, Mongoose, IndexedDB, Service-Worker, Express.js",
      "github":"https://github.com/sergiogomez100000/Int-Budget-Tracker",
      "deploy":"https://int-budget-tracker.herokuapp.com/"
  },{
-    "image":"",
+    "image":"src/images/Fitness-Tracker.png",
      "name":"Fitness Tracker",
      "description":"A Fitness Tracker that lets you keep track of your daily workouts and gives you weekly stats!",
      "technology":"Mongo DB, Mongoose, MVC, Express.js, ",
      "github":"https://github.com/sergiogomez100000/Fitness-Tracker",
      "deploy":"https://workout-tracker1996.herokuapp.com/?id=607de1f18bdcf200159acc53"
  },{
-    "image":"",
+    "image":"src/images/Giffin-Words.png",
      "name":"Giffin Words",
      "description":"A simple App to find definitions of words and get an accompanying GIF to make sense of it!",
      "technology":"Third-Party API, Bulma, Local Storage, JavaScript",
      "github":"https://github.com/sergiogomez100000/Project-1-Giffin-Words",
      "deploy":"https://sergiogomez100000.github.io/Project-1-Giffin-Words/"
  },{
-    "image":"",
+    "image":"src/images/E-Com-Back-End.png",
      "name":"E-Commerce Back-End",
      "description":"A Back-End application designed for E-Commerce functionality, creating an adding products with ease!",
      "technology":"MySQL, Sequelize, Express.js,",
