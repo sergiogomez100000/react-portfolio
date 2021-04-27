@@ -6,7 +6,7 @@ function Header() {
 
   return (
     <div className="card text-center"style={{background: "#659DBD"}}>
-      <h1 className="display-5 fw-bold">Sergio Gomez's Portfolio</h1>
+      <h1 className="display-5 fw-bold" style={{color:"lightgray"}}>Sergio Gomez</h1>
       <div className="card-header">
         <ul className="nav nav-tabs card-header-tabs nav-fill">
           <li className="nav-item">

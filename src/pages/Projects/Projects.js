@@ -4,7 +4,9 @@ import Project from '../../components/ProjectInfo/Project';
 
 function Projects() {
     return (
-      <Project/>
+      <div className="row">
+         <Project/>
+      </div>
     )
 }
 export default Projects;
