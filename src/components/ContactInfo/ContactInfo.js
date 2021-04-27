@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactInfo() {
   return (
-    <div className="container">
+    <div className="container col-4">
       <h1>Contact Information</h1>
       <div className="card-body">
         <h5 className="card-title">Email</h5>
