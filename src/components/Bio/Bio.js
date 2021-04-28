@@ -1,7 +1,7 @@
 function Bio() {
     return (
         <div className="mt-5 container col-8">
-            <h2 className="">About Me</h2>
+            <h1 className="container col-3">About Me</h1>
             <h3>
                 I am a Full Stack Web Developer interested in an amazing career with
                 Computer Science! I love to master new tools and create new products,

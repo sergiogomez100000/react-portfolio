@@ -18,7 +18,7 @@ function Project() {
             <h5 className="card-title">{project.name}</h5>
             <p className="card-text">{project.description}</p>
           </div>
-           <div className="list-group list-group-flush">
+          <div className="list-group list-group-flush">
             <div className="list-group-item font-weight-bold">
               Technologies Used
             </div>

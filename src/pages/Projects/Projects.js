@@ -4,9 +4,12 @@ import Project from '../../components/ProjectInfo/Project';
 
 function Projects() {
     return (
-      <div className="row">
-        <h2 className="mt-5">Projects</h2>
+      <div>
+      <h1 className="mt-5 container col-2">Projects</h1>
+      <div className="row mt-5">
+        
          <Project/>
+      </div>
       </div>
     )
 }
