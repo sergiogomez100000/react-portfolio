@@ -6,7 +6,7 @@ function Project() {
     return (
       <div className="col-md d-flex justify-content-center">
         <div
-          className="card border-secondary mb-3"
+          className="card border-dark mb-3"
           style={{ width: "20rem", background: "lightgray" }}
         >
           <img
@@ -18,12 +18,18 @@ function Project() {
             <h5 className="card-title">{project.name}</h5>
             <p className="card-text">{project.description}</p>
           </div>
-          <ul className="list-group list-group-flush">
+           <div className="list-group list-group-flush">
+            <div className="list-group-item font-weight-bold">
+              Technologies Used
+            </div>
+            <div className="list-group-item">{project.technology}</div>
+          </div>
+          {/* <ul className="list-group list-group-flush">
             <li className="list-group-item font-weight-bold">
               Technologies Used
             </li>
             <li className="list-group-item">{project.technology}</li>
-          </ul>
+          </ul> */}
           <div className="card-body">
             <a target="blank" href={project.github} className="card-link">
               Link to Repo
