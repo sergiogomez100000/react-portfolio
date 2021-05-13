@@ -25,4 +25,4 @@ Anyone who wants to see my professional portfolio can do so here!
 <img src="">
 
 ## Links
-A link to my deployed application here(). A link to my Github repository (https://github.com/sergiogomez100000/react-portfolio).
+A link to my deployed application here(https://sg-react-portfolio.netlify.app/). A link to my Github repository (https://github.com/sergiogomez100000/react-portfolio).
