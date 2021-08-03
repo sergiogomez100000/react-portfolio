@@ -22,7 +22,7 @@ No installation required.
 Anyone who wants to see my professional portfolio can do so here! 
 
 ## Screenshots
-<img src="">
+<img src="src\images\React-Portfolio.png">
 
 ## Links
 A link to my deployed application here(https://sg-react-portfolio.netlify.app/). A link to my Github repository (https://github.com/sergiogomez100000/react-portfolio).
