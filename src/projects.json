@@ -1,4 +1,5 @@
 [ {"image":"https://i.imgur.com/e2ObK2k.png",
+    "id":"1",
     "name":"Password Generator",
     "description":"An application that generates random, secure passwords based on user preferences",
     "technology":"HTML, CSS, JavaScript",
@@ -6,6 +7,7 @@
     "deploy":"https://sergiogomez100000.github.io/Password-Generator/"
 },{
     "image":"https://i.imgur.com/fkB08rL.png",
+    "id":"2",
      "name":"Day Scheduler",
      "description":"A time management application that organizes your 9-5 work day and makes it more efficient with color coded time frames!",
      "technology":"HTMl, CSS, JavaScript, Local Storage",
@@ -13,6 +15,7 @@
      "deploy":"https://sergiogomez100000.github.io/Day-Scheduler/"
  },{
    "image":"https://i.imgur.com/dZJluGY.png?1",
+   "id":"3",
     "name":"Weather Dashboard",
     "description":"A weather application that gives you cities' forecasts for today and the next 5 days!",
     "technology":"HTML, CSS, Bootstrap, JavaScript, Third Party APIs, Server-Side APIs",
@@ -21,6 +24,7 @@
 },
 {
     "image":"https://i.imgur.com/ygFx9I5.png",
+    "id":"4",
      "name":"Int Budget Tracker",
      "description":"An International Budget Tracker that can be used anywhere regardless of server connection!",
      "technology":"Mongo DB, Mongoose, IndexedDB, Service-Worker, Express.js, Heroku",
@@ -28,6 +32,7 @@
      "deploy":"https://int-budget-tracker.herokuapp.com/"
  },{
     "image":"https://i.imgur.com/oSgfowm.png",
+    "id":"5",
      "name":"Fitness Tracker",
      "description":"A Fitness Tracker application that lets you keep track of your daily workouts and gives you weekly stats!",
      "technology":"Mongo DB, Mongoose, MVC, Express.js, Heroku ",
@@ -35,6 +40,7 @@
      "deploy":"https://workout-tracker1996.herokuapp.com/?id=607de1f18bdcf200159acc53"
  },{
     "image":"https://i.imgur.com/u5G8GBv.png",
+    "id":"6",
      "name":"E-Commerce Back-End",
      "description":"A Back-End application designed for E-Commerce functionality, creating an adding products with ease!",
      "technology":"MySQL, Sequelize, Express.js,",

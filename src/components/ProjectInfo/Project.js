@@ -4,7 +4,7 @@ import Projects from "../../projects.json";
 function Project() {
   return Projects.map((project) => {
     return (
-      <div className="col-md d-flex justify-content-center">
+      <div key={project.id} className="col-md d-flex justify-content-center">
         <div
           className="card border-dark mb-3"
           style={{ width: "20rem", background: "lightgray" }}
@@ -24,12 +24,6 @@ function Project() {
             </div>
             <div className="list-group-item">{project.technology}</div>
           </div>
-          {/* <ul className="list-group list-group-flush">
-            <li className="list-group-item font-weight-bold">
-              Technologies Used
-            </li>
-            <li className="list-group-item">{project.technology}</li>
-          </ul> */}
           <div className="card-body">
             <a target="blank" href={project.github} className="card-link">
               Link to Repo
