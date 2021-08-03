@@ -1,38 +1,38 @@
-[ {
-   "image":"https://i.imgur.com/Yc5e4EA.png",
-    "name":"Food Ties",
-    "description":"A fun personality quiz that uses food choices to determine your personality!",
-    "technology":"mySQL, Node.js, Express.js, Sequelize, Bcrypt, MVC, Handlebars",
-    "github":"https://github.com/sergiogomez100000/Food-Ties",
-    "deploy":"https://food-tiesgroup.herokuapp.com/login"
-},
-{"image":"https://i.imgur.com/guhAtOY.png",
-    "name":"Employee Directory",
-    "description":"A directory for managers to find info on their employees by searching for their name",
-    "technology":"mySQL, Node.js, Express.js, Sequelize, Bcrypt, MVC, Handlebars",
-    "github":"https://github.com/sergiogomez100000/employee-directory",
-    "deploy":"https://employee-directorysg.netlify.app/"
+[ {"image":"https://i.imgur.com/e2ObK2k.png",
+    "name":"Password Generator",
+    "description":"An application that generates random, secure passwords based on user preferences",
+    "technology":"HTML, CSS, JavaScript",
+    "github":"https://github.com/sergiogomez100000/Password-Generator",
+    "deploy":"https://sergiogomez100000.github.io/Password-Generator/"
 },{
+    "image":"https://i.imgur.com/fkB08rL.png",
+     "name":"Day Scheduler",
+     "description":"A time management application that organizes your 9-5 work day and makes it more efficient with color coded time frames!",
+     "technology":"HTMl, CSS, JavaScript, Local Storage",
+     "github":"https://github.com/sergiogomez100000/Day-Scheduler",
+     "deploy":"https://sergiogomez100000.github.io/Day-Scheduler/"
+ },{
+   "image":"https://i.imgur.com/dZJluGY.png?1",
+    "name":"Weather Dashboard",
+    "description":"A weather application that gives you cities' forecasts for today and the next 5 days!",
+    "technology":"HTML, CSS, Bootstrap, JavaScript, Third Party APIs, Server-Side APIs",
+    "github":"https://github.com/sergiogomez100000/Weather-Dashboard",
+    "deploy":"https://sergiogomez100000.github.io/Weather-Dashboard"
+},
+{
     "image":"https://i.imgur.com/ygFx9I5.png",
      "name":"Int Budget Tracker",
      "description":"An International Budget Tracker that can be used anywhere regardless of server connection!",
-     "technology":"Mongo DB, Mongoose, IndexedDB, Service-Worker, Express.js",
+     "technology":"Mongo DB, Mongoose, IndexedDB, Service-Worker, Express.js, Heroku",
      "github":"https://github.com/sergiogomez100000/Int-Budget-Tracker",
      "deploy":"https://int-budget-tracker.herokuapp.com/"
  },{
     "image":"https://i.imgur.com/oSgfowm.png",
      "name":"Fitness Tracker",
-     "description":"A Fitness Tracker that lets you keep track of your daily workouts and gives you weekly stats!",
-     "technology":"Mongo DB, Mongoose, MVC, Express.js, ",
+     "description":"A Fitness Tracker application that lets you keep track of your daily workouts and gives you weekly stats!",
+     "technology":"Mongo DB, Mongoose, MVC, Express.js, Heroku ",
      "github":"https://github.com/sergiogomez100000/Fitness-Tracker",
      "deploy":"https://workout-tracker1996.herokuapp.com/?id=607de1f18bdcf200159acc53"
- },{
-    "image":"https://i.imgur.com/KS82IKL.png",
-     "name":"Giffin Words",
-     "description":"A simple App to find definitions of words and get an accompanying GIF to make sense of it!",
-     "technology":"Third-Party API, Bulma, Local Storage, JavaScript",
-     "github":"https://github.com/sergiogomez100000/Project-1-Giffin-Words",
-     "deploy":"https://sergiogomez100000.github.io/Project-1-Giffin-Words/"
  },{
     "image":"https://i.imgur.com/u5G8GBv.png",
      "name":"E-Commerce Back-End",
