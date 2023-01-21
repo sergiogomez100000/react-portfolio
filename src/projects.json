@@ -29,7 +29,7 @@
      "description":"An International Budget Tracker that can be used anywhere regardless of server connection!",
      "technology":"Mongo DB, Mongoose, IndexedDB, Service-Worker, Express.js, Heroku",
      "github":"https://github.com/sergiogomez100000/Int-Budget-Tracker",
-     "deploy":"https://int-budget-tracker.herokuapp.com/"
+     "deploy":"https://offlinebudgettracker.herokuapp.com/"
  },{
     "image":"https://i.imgur.com/oSgfowm.png",
     "id":"5",
@@ -37,7 +37,7 @@
      "description":"A Fitness Tracker application that lets you keep track of your daily workouts and gives you weekly stats!",
      "technology":"Mongo DB, Mongoose, MVC, Express.js, Heroku ",
      "github":"https://github.com/sergiogomez100000/Fitness-Tracker",
-     "deploy":"https://workout-tracker1996.herokuapp.com/?id=607de1f18bdcf200159acc53"
+     "deploy":"https://fitnesstracker2023.herokuapp.com/"
  },{
     "image":"https://i.imgur.com/u5G8GBv.png",
     "id":"6",
